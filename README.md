@@ -1,2 +1,7 @@
-# TimedProfile
-A basic Discord SelfBot written in Python to change your Profile Picture depending on the time of day. 
+# Profile Picture Timer:
+A basic discord selfbot that will change your profile picture depending on the time of day using python.
+
+# Install:
+Coming Soon
+
+More coming soon. 
